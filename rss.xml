@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Good Reads]]></title>
+        <description><![CDATA[Good Reads]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Jul 2016 10:15:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Quirks of the Game: How Tennis Got Its Scoring System]]></title>
+            <description><![CDATA[<article><h1>Quirks of the Game: How Tennis Got Its Scoring System</h1><p>When Billie Jean King was first learning about tennis, she said, her coach explained that the point system went, "15, then 30" at which point the eager and exuberant student proclaimed, "and then 45, right?" Told that the next point brought her to 40, King thought to herself, "Oh my god, What is this sport?"</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3bca38ee900210ab903c1b203fafe25f/noop.png?input=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2Ficons%2Ft_logo_150_black.png"></article>]]></description>
+            <link>http://mobile.nytimes.com/blogs/straightsets/2013/05/24/quirks-of-the-game-how-tennis-got-its-scoring-system/</link>
+            <guid isPermaLink="false">5cd3e4fa-8936-4d8c-94f7-2802dd26b2c7</guid>
+            <pubDate>Wed, 20 Jul 2016 10:15:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
