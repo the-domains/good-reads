@@ -8,11 +8,13 @@ description: >-
   Jonathan and Claraso walking the Stampede Trail on their way to notify
   troopers that Seques and Shoup are stranded on the far side. Photo: Diana
   Saverin
-datePublished: '2016-07-27T22:48:14.734Z'
-dateModified: '2016-07-27T22:48:02.905Z'
+datePublished: '2016-07-27T22:54:23.676Z'
+dateModified: '2016-07-27T22:48:23.224Z'
 title: ''
 author: []
 via: {}
+sourcePath: >-
+  _posts/2016-07-27-jonathan-and-claraso-walking-the-stampede-trail-on-their-way.md
 authors: []
 publisher:
   name: null
@@ -20,8 +22,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: >-
-  _posts/2016-07-27-jonathan-and-claraso-walking-the-stampede-trail-on-their-way.md
 url: jonathan-and-claraso-walking-the-stampede-trail-on-their-way/index.html
 _type: Article
 
