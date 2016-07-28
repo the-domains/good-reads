@@ -4,8 +4,22 @@
         <description><![CDATA[Good Reads]]></description>
         <link>https://thegrid.ai/good-reads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 15:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 15:25:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/good-reads/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Quirks of the Game: How Tennis Got Its Scoring System]]></title>
+            <description><![CDATA[<article><h1>Quirks of the Game: How Tennis Got Its Scoring System</h1><p>When Billie Jean King was first learning about tennis, she said, her coach explained that the point system went, "15, then 30" at which point the eager and exuberant student proclaimed, "and then 45, right?" Told that the next point brought her to 40, King thought to herself, "Oh my god, What is this sport?"</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3bca38ee900210ab903c1b203fafe25f/noop.png?input=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2Ficons%2Ft_logo_150_black.png"></article>]]></description>
+            <link>http://mobile.nytimes.com/blogs/straightsets/2013/05/24/quirks-of-the-game-how-tennis-got-its-scoring-system/</link>
+            <guid isPermaLink="false">5cd3e4fa-8936-4d8c-94f7-2802dd26b2c7</guid>
+            <pubDate>Thu, 28 Jul 2016 15:25:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77374df3-9fed-4e18-b16c-988a357d2d35.jpg">]]></description>
+            <link>https://thegrid.ai/good-reads/jonathan-and-claraso-walking-the-stampede-trail-on-their-way/index.html</link>
+            <guid isPermaLink="false">a6d20140-79e2-4c86-a3c2-9b0a583c8001</guid>
+            <pubDate>Thu, 28 Jul 2016 15:21:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ferguson’s Formula]]></title>
             <description><![CDATA[<article><h1>Ferguson’s Formula</h1><p>By Anita Elberse ( HBR October 2o13)</p></article>]]></description>
@@ -21,25 +35,11 @@
             <pubDate>Thu, 28 Jul 2016 15:05:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77374df3-9fed-4e18-b16c-988a357d2d35.jpg">]]></description>
-            <link>https://thegrid.ai/good-reads/jonathan-and-claraso-walking-the-stampede-trail-on-their-way/index.html</link>
-            <guid isPermaLink="false">a6d20140-79e2-4c86-a3c2-9b0a583c8001</guid>
-            <pubDate>Wed, 27 Jul 2016 22:54:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[16 Startup Metrics]]></title>
             <description><![CDATA[<article><h1>16 Startup Metrics</h1><p>We have the privilege of meeting with thousands of entrepreneurs every year, and in the course of those discussions are presented with all kinds of numbers, measures, and metrics that illustrate the promise and health of a particular company.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08c499f90bddc20914a8f635bf9b8e0a4f47b640.png"></article>]]></description>
             <link>http://a16z.com/2015/08/21/16-metrics/</link>
             <guid isPermaLink="false">869a9ec6-9171-4d07-89cb-9c08cb6b477d</guid>
             <pubDate>Wed, 20 Jul 2016 10:52:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Quirks of the Game: How Tennis Got Its Scoring System]]></title>
-            <description><![CDATA[<article><h1>Quirks of the Game: How Tennis Got Its Scoring System</h1><p>When Billie Jean King was first learning about tennis, she said, her coach explained that the point system went, "15, then 30" at which point the eager and exuberant student proclaimed, "and then 45, right?" Told that the next point brought her to 40, King thought to herself, "Oh my god, What is this sport?"</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3bca38ee900210ab903c1b203fafe25f/noop.png?input=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2Ficons%2Ft_logo_150_black.png"></article>]]></description>
-            <link>http://mobile.nytimes.com/blogs/straightsets/2013/05/24/quirks-of-the-game-how-tennis-got-its-scoring-system/</link>
-            <guid isPermaLink="false">5cd3e4fa-8936-4d8c-94f7-2802dd26b2c7</guid>
-            <pubDate>Wed, 20 Jul 2016 10:15:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
