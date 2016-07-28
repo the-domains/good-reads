@@ -8,8 +8,8 @@ description: >-
   Jonathan and Claraso walking the Stampede Trail on their way to notify
   troopers that Seques and Shoup are stranded on the far side. Photo: Diana
   Saverin
-datePublished: '2016-07-28T15:21:53.207Z'
-dateModified: '2016-07-28T15:21:37.157Z'
+datePublished: '2016-07-28T22:45:00.105Z'
+dateModified: '2016-07-28T15:21:57.244Z'
 title: ''
 author: []
 via: {}
