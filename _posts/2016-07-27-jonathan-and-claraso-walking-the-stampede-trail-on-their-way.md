@@ -8,8 +8,8 @@ description: >-
   Jonathan and Claraso walking the Stampede Trail on their way to notify
   troopers that Seques and Shoup are stranded on the far side. Photo: Diana
   Saverin
-datePublished: '2016-07-28T22:45:00.105Z'
-dateModified: '2016-07-28T15:21:57.244Z'
+datePublished: '2016-07-28T22:47:27.511Z'
+dateModified: '2016-07-28T22:46:27.448Z'
 title: ''
 author: []
 via: {}
@@ -33,7 +33,7 @@ _By: _[Diana Saverin][1] Dec 18, 2013
 
 _Jonathan and Claraso walking the Stampede Trail on their way to notify troopers that Seques and Shoup are stranded on the far side. __Photo: Diana Saverin_
 
-_[Every year, scores of Into the Wild fans tackle a dangerous river crossing to visit the last home of Alaska's most famous adventure casualty. Why are so many people willing to risk injury, and even death, to pay homage to a controversial ascetic who perished so young?][0]_
+_Every year, scores of Into the Wild fans tackle a dangerous river crossing to visit the last home of Alaska's most famous adventure casualty. Why are so many people willing to risk injury, and even death, to pay homage to a controversial ascetic who perished so young?_
 
 On the isolated shore of the Savage River, in the backcountry of interior Alaska, there's a small memorial to a deceased woman named Claire Ackermann. A pile of rocks sits on a metal plaque with an inscription that reads, in part: "To stay put is to exist; to travel is to live."
 
