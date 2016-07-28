@@ -8,8 +8,8 @@ description: >-
   Jonathan and Claraso walking the Stampede Trail on their way to notify
   troopers that Seques and Shoup are stranded on the far side. Photo: Diana
   Saverin
-datePublished: '2016-07-27T22:54:23.676Z'
-dateModified: '2016-07-27T22:48:23.224Z'
+datePublished: '2016-07-28T15:21:53.207Z'
+dateModified: '2016-07-28T15:21:37.157Z'
 title: ''
 author: []
 via: {}
@@ -28,10 +28,10 @@ _type: Article
 ---
 # [The Chris McCandless Obsession Problem][0]
 
-_By:_[Diana Saverin][1] Dec 18, 2013
+_By: _[Diana Saverin][1] Dec 18, 2013
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77374df3-9fed-4e18-b16c-988a357d2d35.jpg)
 
-_Jonathan and Claraso walking the Stampede Trail on their way to notify troopers that Seques and Shoup are stranded on the far side. Photo: Diana Saverin_
+_Jonathan and Claraso walking the Stampede Trail on their way to notify troopers that Seques and Shoup are stranded on the far side. __Photo: Diana Saverin_
 
 _[Every year, scores of Into the Wild fans tackle a dangerous river crossing to visit the last home of Alaska's most famous adventure casualty. Why are so many people willing to risk injury, and even death, to pay homage to a controversial ascetic who perished so young?][0]_
 
