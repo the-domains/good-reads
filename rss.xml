@@ -4,14 +4,28 @@
         <description><![CDATA[Good Reads]]></description>
         <link>https://thegrid.ai/good-reads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 22:45:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 22:49:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/good-reads/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ferguson’s Formula]]></title>
+            <description><![CDATA[<article><h1>Ferguson’s Formula</h1><p>By Anita Elberse ( HBR October 2o13)</p></article>]]></description>
+            <link>https://thegrid.ai/good-reads/fergusons-formula/index.html</link>
+            <guid isPermaLink="false">82b7b53b-7201-429c-8f83-fc623d32039f</guid>
+            <pubDate>Thu, 28 Jul 2016 22:49:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77374df3-9fed-4e18-b16c-988a357d2d35.jpg">]]></description>
             <link>https://thegrid.ai/good-reads/jonathan-and-claraso-walking-the-stampede-trail-on-their-way/index.html</link>
             <guid isPermaLink="false">a6d20140-79e2-4c86-a3c2-9b0a583c8001</guid>
-            <pubDate>Thu, 28 Jul 2016 22:45:00 GMT</pubDate>
+            <pubDate>Thu, 28 Jul 2016 22:47:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TOWN OF CATS]]></title>
+            <description><![CDATA[<article><h1>TOWN OF CATS</h1><h2>By Haruki Murakami</h2></article>]]></description>
+            <link>https://thegrid.ai/good-reads/town-of-cats/index.html</link>
+            <guid isPermaLink="false">4e262c03-dbe5-45bc-8e07-4e4b4377e807</guid>
+            <pubDate>Thu, 28 Jul 2016 22:45:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Quirks of the Game: How Tennis Got Its Scoring System]]></title>
@@ -19,20 +33,6 @@
             <link>http://mobile.nytimes.com/blogs/straightsets/2013/05/24/quirks-of-the-game-how-tennis-got-its-scoring-system/</link>
             <guid isPermaLink="false">5cd3e4fa-8936-4d8c-94f7-2802dd26b2c7</guid>
             <pubDate>Thu, 28 Jul 2016 15:25:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ferguson’s Formula]]></title>
-            <description><![CDATA[<article><h1>Ferguson’s Formula</h1><p>By Anita Elberse ( HBR October 2o13)</p></article>]]></description>
-            <link>https://thegrid.ai/good-reads/fergusons-formula/index.html</link>
-            <guid isPermaLink="false">82b7b53b-7201-429c-8f83-fc623d32039f</guid>
-            <pubDate>Thu, 28 Jul 2016 15:18:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TOWN OF CATS]]></title>
-            <description><![CDATA[<article><h1>TOWN OF CATS</h1><h2>By Haruki Murakami</h2></article>]]></description>
-            <link>https://thegrid.ai/good-reads/town-of-cats/index.html</link>
-            <guid isPermaLink="false">4e262c03-dbe5-45bc-8e07-4e4b4377e807</guid>
-            <pubDate>Thu, 28 Jul 2016 15:05:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[16 Startup Metrics]]></title>
