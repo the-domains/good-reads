@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-28T15:05:32.325Z'
-dateModified: '2016-07-28T15:05:25.437Z'
+datePublished: '2016-07-28T22:45:45.346Z'
+dateModified: '2016-07-28T15:05:39.691Z'
 title: TOWN OF CATS
 author: []
 via: {}
+sourcePath: _posts/2016-07-28-town-of-cats.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-07-28-town-of-cats.md
 url: town-of-cats/index.html
 _type: Article
 
