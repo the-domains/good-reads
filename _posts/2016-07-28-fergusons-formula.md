@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: By Anita Elberse ( HBR October 2o13)
-datePublished: '2016-07-28T15:18:29.050Z'
-dateModified: '2016-07-28T15:18:13.595Z'
+datePublished: '2016-07-28T22:49:54.096Z'
+dateModified: '2016-07-28T15:18:36.624Z'
 title: Ferguson’s Formula
 author: []
 via: {}
+sourcePath: _posts/2016-07-28-fergusons-formula.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-07-28-fergusons-formula.md
 url: fergusons-formula/index.html
 _type: Article
 
