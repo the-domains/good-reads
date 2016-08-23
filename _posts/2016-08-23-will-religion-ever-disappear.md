@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Will Religion Ever Disappear?
-datePublished: '2016-08-23T13:50:31.091Z'
-dateModified: '2016-08-23T13:50:25.803Z'
+datePublished: '2016-08-23T13:51:07.740Z'
+dateModified: '2016-08-23T13:50:36.405Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-23-will-religion-ever-disappear.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-23-will-religion-ever-disappear.md
 url: will-religion-ever-disappear/index.html
 _type: Article
 
